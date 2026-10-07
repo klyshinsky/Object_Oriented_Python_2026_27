@@ -6,3 +6,5 @@
 [Лекция 2](https://github.com/klyshinsky/Object_Oriented_Python_2026_27/blob/main/lecture_20260909_unittest.ipynb) - Создание классов. Хорошие практики: файлы конфигурации, сохранение результатов в docx, журналирование, юнит-тесты.
 
 [Лекция 3](https://github.com/klyshinsky/Object_Oriented_Python_2026_27/blob/main/lecture_20260916_inside_class.ipynb) - Кеширование данных. Внутреннее устройство объектов и классов.
+
+[Лекция 4](https://github.com/klyshinsky/Object_Oriented_Python_2026_27/blob/main/lecture_20261007_Inheritance.ipynb) - Наследование. 
