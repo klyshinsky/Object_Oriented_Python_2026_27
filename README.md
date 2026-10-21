@@ -8,3 +8,8 @@
 [Лекция 3](https://github.com/klyshinsky/Object_Oriented_Python_2026_27/blob/main/lecture_20260916_inside_class.ipynb) - Кеширование данных. Внутреннее устройство объектов и классов.
 
 [Лекция 4](https://github.com/klyshinsky/Object_Oriented_Python_2026_27/blob/main/lecture_20261007_Inheritance.ipynb) - Наследование. 
+
+[Лекция 5](https://github.com/klyshinsky/Object_Oriented_Python_2026_27/blob/main/lecture_20261014_software design.pdf) - Принципы разработки программного обеспечения (презентация).
+
+[Лекция 6](https://github.com/klyshinsky/Object_Oriented_Python_2025_26/blob/main/lecture_20261021_design patterns.ipynb) - принципы SOLID. Шаблоны разработки классов.
+
