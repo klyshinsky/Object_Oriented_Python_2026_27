@@ -20,3 +20,4 @@
 [Лекция 9](https://github.com/klyshinsky/Object_Oriented_Python_2026_27/blob/main/lecture_20261118_Reduse_space.ipynb) - Преобразование признаков, снижение их размерности.  
 [Лекция 9](https://github.com/klyshinsky/Object_Oriented_Python_2026_27/blob/main/Lecture_20261118_Scrum.pdf) - Основы Скрам.
 
+[Лекция 10](https://github.com/klyshinsky/Object_Oriented_Python_2026_27/blob/main/lecture_20261125_Multiprocessing.ipynb) - Многопоточность.  
